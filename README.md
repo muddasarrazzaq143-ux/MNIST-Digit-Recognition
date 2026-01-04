@@ -28,5 +28,5 @@ Two classic machine learning models — **K-Nearest Neighbors (KNN)** and **Gaus
 
 ## 👤 Author
 **Muddasar Razzaq**  
-Employee of *Information Tech Consultants*  
+
 MSc Data Science — *Ulster University*
